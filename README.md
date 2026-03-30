@@ -17,15 +17,40 @@ I'm passionate about delivering exceptional results and creating innovative solu
 
 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/md-asikuzzaman) or [Visit Website](https://devasik.vercel.app)!
 
-<div width="100%" align="center">
+<!-- <div width="100%" align="left">
 <img
     src="https://github-readme-stats.vercel.app/api/top-langs?username=md-asikuzzaman&show_icons=true&locale=en&layout=compact&show_icons=true&count_private=true&theme=react&bg_color=0D1117"
     alt="md-asikuzzaman"
   />
+    <img
+    src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=md-asikuzzaman&theme=react"
+    alt="md-asikuzzaman"
+  />
 </div>
-<!-- <div width="100%" align="center">
+<div width="100%" align="center">
 <img
     src="https://github.com/md-asikuzzaman/md-asikuzzaman/blob/output/github-contribution-grid-snake.gif"
     alt="md-asikuzzaman"
   />
 </div> -->
+
+<div align="center" width="100%">
+  <table width="100%">
+    <tr>
+      <td width="35%">
+        <img
+          src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=md-asikuzzaman&theme=react"
+          alt="repos-per-language"
+          width="100%"
+        />
+      </td>
+      <td width="65%">
+        <img
+          src="https://github.com/md-asikuzzaman/md-asikuzzaman/blob/output/github-contribution-grid-snake.gif"
+          alt="snake"
+          width="100%"
+        />
+      </td>
+    </tr>
+  </table>
+</div>
