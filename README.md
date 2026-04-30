@@ -1,8 +1,12 @@
 <img src="https://raw.githubusercontent.com/BINOD-XD/BINOD-XD/main/header_.png"/>
 
-## 🎓 Experienced React/Next.js Developer Ready to Elevate Your Project!
+## 🎓 Building High-Performance, Scalable Web Applications with React & Next.js
 
-I'm a proficient React/Next.js developer with a comprehensive skill set that encompasses Prisma, Zod, Tailwind CSS, and MongoDB. With a strong background in web development, I specialize in creating high-performance, server-rendered web applications that excel in both functionality and aesthetics. My expertise in Prisma and MongoDB allows for efficient database management, while Zod ensures data validation and security. When it comes to crafting user-friendly and visually appealing interfaces, I turn to Tailwind CSS.
+I’m a Software Developer specializing in modern web applications, with a strong focus on React.js, Next.js, and TypeScript. I build scalable, high-performance interfaces with clean architecture, reusable components, and attention to user experience and performance.
+
+I work extensively across the web stack, including Node.js, Express, Prisma, MongoDB, and MySQL, enabling me to design and deliver complete, production-ready applications with efficient data flow and secure API integration.
+
+I’m passionate about building reliable digital products, developer-focused tools, and performance-driven UI systems, while continuously refining code quality, scalability, and maintainability.
 
 ## What I Offer
 
