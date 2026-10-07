@@ -1,5 +1,3 @@
-<img src="https://raw.githubusercontent.com/BINOD-XD/BINOD-XD/main/header_.png"/>
-
 ## 🎓 Building High-Performance, Scalable Web Applications with React & Next.js
 
 I’m a Software Developer specializing in modern web applications, with a strong focus on React.js, Next.js, and TypeScript. I build scalable, high-performance interfaces with clean architecture, reusable components, and attention to user experience and performance.
