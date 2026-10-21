@@ -8,7 +8,7 @@ My work spans modern frontend development and backend engineering, using React, 
 
 **Tech Stack:** TypeScript · JavaScript · React · Next.js · NestJS · Node.js · Prisma · PostgreSQL · MongoDB · Docker
 
-**Connect:** [LinkedIn](https://www.linkedin.com/in/md-asikuzzaman) · [Portfolio](https://devasik.vercel.app) · [GitHub](https://github.com/md-asikuzzaman) · [Email](mailto:mdasikuzzaman.en@gmail.com)
+**Connect:** [LinkedIn](https://www.linkedin.com/in/md-asikuzzaman) · [Portfolio](https://devasik.vercel.app) · [Email](mailto:mdasikuzzaman.en@gmail.com)
 
 ---
 
